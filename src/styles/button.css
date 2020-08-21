@@ -1,0 +1,18 @@
+.button{
+     background-color: #dc3c4d;
+     color: #ffffff;
+     font-size: 14px;
+     font-weight: bold;
+     font: 'Quicksand', fantasy;
+     border-radius: 5px;
+     border: 1px solid #dc3c4d;
+     padding: 10px;
+     margin-left: 43%;
+}
+
+.button:hover{
+    border: 1px solid #FFb500;
+    background-color: #ffffff;
+    color: #dc3c4d;
+   
+}
